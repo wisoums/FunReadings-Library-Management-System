@@ -2,6 +2,8 @@ The Library Management System is designed to assist the FunReadings Library staf
 
 The system will provide a robust user interface allowing staff to perform various operations such as adding, deleting, or updating item information, listing items by category, and managing complete client profiles including lease and return transactions. Key features include the ability to track all items leased to a client, display the largest book in the collection, and manage data integrity through deep copying of item arrays.
 
+Here's a quick video demo for a better overview of the project: https://youtu.be/CfLNYzZLkp4?si=6c1NQFLGqndaq1_f 
+
 <b>Technical Specifications:</b>
 
   - Class Hierarchy: Utilize Java inheritance to structure classes representing different types of library items and clients.
